@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.iafirst</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>IAFirst</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
-    <description>demo</description>
+    <name>IAFirst</name>
+    <description>Projeto IA First</description>
     <url/>
     <licenses>
         <license/>
